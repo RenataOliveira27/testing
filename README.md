@@ -10,14 +10,15 @@
 StatsDash is a full stack web application that provides in depth player statistics for all your favorite sports, players, and teams.
 
 # Technologies Used
-- Materialize (Front-end Framework)
+- Materialize (CSS Framework)
 - Handlebars (Template Engine)
-- JavaScript
-- NodeJs (Open source JavaScript enviroment)
-- 
-
-
-we utilized a sports stats API for the purpose of building a baseline of historical stats. For the future we will be integrating custom sets of stats which will give users acess to even more interesting and usefull stats not readily available. Stats such as "What is Steph Currys shooting percentage with 2 minutes or less left in the fourth quarter".
+- CSS (Cascading Style Sheet)
+- Passport (Authentification)
+- JavaScript (Programming Language)
+- NodeJs (Open Source JavaScript Enviroment)
+- Express (server Framework)
+- Sequelize (ORM)
+- MySQL (RDBMS)
 
 # building our database
 
@@ -27,3 +28,6 @@ We were presented with a unique challenge with the API we chose. We were limitie
 We stored every stat associated with the player in our database
 
 [![statsdash](https://img.youtube.com/vi/HbdrZ5W-Ca4/0.jpg)](https://www.youtube.com/watch?v=HbdrZ5W-Ca4)
+
+# Future Plans
+We utilized a sports stats API for the purpose of building a baseline of historical stats. For the future we will be integrating custom sets of stats which will give users acess to even more interesting and usefull stats not readily available. Stats such as "What is Steph Currys shooting percentage with 2 minutes or less left in the fourth quarter".
