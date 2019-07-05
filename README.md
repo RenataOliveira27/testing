@@ -17,7 +17,7 @@ StatsDash is a full stack web application that provides in-depth player statisti
 - Passport (Authentification)
 - JavaScript (Programming Language)
 - NodeJs (Open Source JavaScript Enviroment)
-- Express (server Framework)
+- Express (Server Framework)
 - Sequelize (ORM)
 - MySQL (RDBMS)
 
