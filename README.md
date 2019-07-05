@@ -7,7 +7,7 @@
 
 
                                     
-StatsDash is a full stack web application that provides in depth player statistics for all your favorite sports, players, and teams.
+StatsDash is a full stack web application that provides in-depth player statistics for all your favorite sports, players, and teams.
 
 # Technologies Used
 - Materialize (CSS Framework)
