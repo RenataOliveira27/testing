@@ -22,6 +22,7 @@ StatsDash is a full stack web application that provides in-depth player statisti
 
 # Would you like to see what's "under the hood" of StatsDash?! 
 __**Click on the image below to be redirected to a video!**__
+
 [![statsdash](https://img.youtube.com/vi/HbdrZ5W-Ca4/0.jpg)](https://www.youtube.com/watch?v=HbdrZ5W-Ca4)
 
 # Building our database
