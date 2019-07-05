@@ -20,7 +20,8 @@ StatsDash is a full stack web application that provides in-depth player statisti
 - Sequelize (ORM)
 - MySQL (RDBMS)
 
-#Would you like to see whats "under the hood" of StatsDash? __**Click on the image below to be redirected to a video!**__
+# Would you like to see whats "under the hood" of StatsDash? 
+__**Click on the image below to be redirected to a video!**__
 [![statsdash](https://img.youtube.com/vi/HbdrZ5W-Ca4/0.jpg)](https://www.youtube.com/watch?v=HbdrZ5W-Ca4)
 
 # building our database
