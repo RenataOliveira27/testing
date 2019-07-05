@@ -19,4 +19,4 @@ We were presented with a unique challenge with the API we chose. We were limitie
 
 We stored every stat associated with the player in our database
 
-[![statsdash](https://img.youtube.com/vi/HbdrZ5W-Ca4/0.jpg)(https://www.youtube.com/watch?v=HbdrZ5W-Ca4)
+[![statsdash](https://img.youtube.com/vi/HbdrZ5W-Ca4/0.jpg)](https://www.youtube.com/watch?v=HbdrZ5W-Ca4)
