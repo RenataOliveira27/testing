@@ -13,6 +13,7 @@ StatsDash is a full stack web application that provides in-depth player statisti
 - Materialize (CSS Framework)
 - Handlebars (Template Engine)
 - CSS (Cascading Style Sheet)
+- Heroku (Deployment)
 - Passport (Authentification)
 - JavaScript (Programming Language)
 - NodeJs (Open Source JavaScript Enviroment)
