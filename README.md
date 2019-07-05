@@ -7,9 +7,10 @@
 
 
                                     
-Full stack web application using JavaScript, Node, SQL, axios, ajax, to provide in depth player statistics for all your favorite sports players and teams.
+StatsDash is a full stack web application that provides in depth player statistics for all your favorite sports, players, and teams.
 
-#origin and future aims of our database
+
+
 we utilized a sports stats API for the purpose of building a baseline of historical stats. For the future we will be integrating custom sets of stats which will give users acess to even more interesting and usefull stats not readily available. Stats such as "What is Steph Currys shooting percentage with 2 minutes or less left in the fourth quarter".
 
 # building our database
